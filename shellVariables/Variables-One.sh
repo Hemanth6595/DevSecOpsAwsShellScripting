@@ -1,3 +1,4 @@
 #! bin/bash
-echo "Hello World!"
-echo "Hi How Are You"
+
+echo "Suresh : How are doing.:
+echo "Ramesh : I am Fine."
