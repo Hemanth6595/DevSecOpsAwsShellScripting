@@ -1,6 +1,8 @@
 #! bin/bash
 personOne=$1
 personTwo=$2
+start_Time=$(date)
+end_time=$(date)
 
 
 
@@ -13,4 +15,6 @@ echo Please Enter Your Password
 read user_password 
 echo Your User Name That You Given Is $user_name
 echo Your User Password That You Given Is $user_password
-
+echo Script Start Time $start_Time
+sleep 10
+echo Script End Time $end_time
