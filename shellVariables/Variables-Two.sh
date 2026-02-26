@@ -4,13 +4,13 @@ personTwo=$2
 
 
 
-echo $PERSONONE :::: Hi $PERSONTWO How are you $PERSONTWO
-echo $PERSONTWO :::: Hi $PERSONONE , Iam Fine $PERSONONE
+echo $personOne :::: Hi $personTwo How are you $personTwo
+echo $personTwo :::: Hi $personOne , Iam Fine $personOne
 
 echo Please Enter Your UserName 
 read user_name
 echo Please Enter Your Password
 read user_password 
-echo Your User Name That You Given Is $USER_NAME
-echo Your User Password That You Given Is $USER_PASSWORD
+echo Your User Name That You Given Is $user_name
+echo Your User Password That You Given Is $user_password
 
